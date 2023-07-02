@@ -4,7 +4,7 @@
     <groupId>pl.codeleak</groupId>
     <artifactId>spring-mvc-quickstart</artifactId>
     <version>5.0.1</version>
-    <packaging>maven-archetype</packaging>
+    <packaging>war</packaging>
     <name>Spring MVC Maven Archetype: Quickstart</name>
     <description>Archetype for creating Spring MVC web application</description>
     <url>https://github.com/kolorobot/spring-mvc-quickstart-archetype</url>
